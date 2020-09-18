@@ -1,0 +1,28 @@
+	.navBar ul{
+		list-style-type: none;
+		margin-right: 0;
+		padding: 0;
+		background-color: #00000f;
+	}
+
+	.navBar li{
+		display: inline;
+		color:#ffffff;
+		text-decoration: none;
+		padding: 5;
+	}	
+
+	.navBar a{
+		color:#ffffff;
+		text-decoration: none;
+	}
+
+	.flexContainer {
+		display: flex;
+		flex-direction: row; 
+		flex-wrap: wrap;
+	}
+
+	.flexItem {
+		width: 100%;
+	}
